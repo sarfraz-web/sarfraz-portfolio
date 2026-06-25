@@ -11,11 +11,11 @@ const routesName = [
 ];
 
 const subRoutesNames = [
-  { href: "/North-Stars", label: "North Stars",},
-  { href: "/Thought-orbit", label: "Thought Orbit 🧠🌍",},
+  // { href: "/North-Stars", label: "North Stars",},
+  // { href: "/Thought-orbit", label: "Thought Orbit 🧠🌍",},
   { label: 'SEP'},
   { href: "/Startup-py", label: "Startup.py" },
-  { href: "/My-Bucket-List", label: "My-Bucket-List" },
+  // { href: "/My-Bucket-List", label: "My-Bucket-List" },
   { label: 'SEP'},
   { href: "/Four-Tier-Mastery", label: "Four-Tier Mastery" },
   { href: "/Tech-Child-Mastery", label: "Tech-Child Mastery" },

@@ -8,13 +8,13 @@ const HobbiesSection = () => {
       <div>
         <div className="flex gap-2">
           <h3 className="sm:text-3xl text-2xl  font-semibold font-mono mb-8">
-            Hobbies
+            
           </h3>
           <h3 className="sm:text-3xl text-2xl  font-semibold font-mono mb-8">
-            Hobbies
+          
           </h3>
           <h3 className="sm:text-3xl text-2xl  font-semibold font-mono mb-8">
-            Hobbies
+          
           </h3>
         </div>
 
